@@ -13,7 +13,7 @@ The merged population datasets are downloaded from   https://data.iowa.gov/Commu
 #### Part3 Application 
   Predict the liquor sales for the 2019 and 2020 dataset using the optimal model. \
   The dataset "2019_population.csv" contains the population information by county in Iowa in 2019. The dataset is from https://www.icip.iastate.edu/tables/population/counties-estimates \
-  The dataset "2019_population.csv" contains the population information by county in Iowa in 2020. This dataset is from https://worldpopulationreview.com/us-counties/states/ia \
+  The dataset "2020_population.csv" contains the population information by county in Iowa in 2020. This dataset is from https://worldpopulationreview.com/us-counties/states/ia \
   The dataset "data_2019_100k.csv" contains extracted 100,000 sale records in 2019 for prediction  \
   The dataset "data_2020_100k.csv" contains extracted 100,000 sale records in 2020 for prediction.  
   
