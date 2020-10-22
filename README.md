@@ -17,3 +17,5 @@ The merged population datasets are downloaded from   https://data.iowa.gov/Commu
   The dataset "data_2019_100k.csv" contains extracted 100,000 sale records in 2019 for prediction  \
   The dataset "data_2020_100k.csv" contains extracted 100,000 sale records in 2020 for prediction.  
   
+### Figures 
+This folder contains all the figures used in the submitted report. 
