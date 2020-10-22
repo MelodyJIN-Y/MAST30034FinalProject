@@ -1,5 +1,5 @@
 # MAST30034FinalProject
-Final project (group) for MAST30034 Applied Data Science. 2020 Semester2 
+Final project (Team 25) for MAST30034 Applied Data Science, Semester2 2020, University of Melbourne. \
 This project explores liquor sales in Iowa. Models are built to predict total liquor volume. 
 The liquor sales dataset could be downloaded https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy (2012-2020)
 The merged population datasets are downloaded from   https://data.iowa.gov/Community-Demographics/County-Population-in-Iowa-by-Year/qtnr-zsrc (1990 - 2018)
