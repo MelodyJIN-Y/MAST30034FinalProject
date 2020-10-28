@@ -3,12 +3,14 @@ Final project (Team 25) for MAST30034 Applied Data Science, Semester2 2020, Univ
 This project explores liquor sales in Iowa. Models are built to predict total liquor volume. \
 ### Codes folder ###
 Codes are divided into three main parts: Pre-processing-> Model development -> Application
-  * **Part1 Pre-processing** \
+  * **1. Part1 Pre-processing** \
     Data cleansing, attribute analysis and feature engineering \
     The dataset "data_200k_latest.csv" contains the extracted 200,000 sale records for the model development part. 
-  * **Part2 Model Development** \
+  * **2. Part2 Model Development** \
     Model development, parameter tuning, and performance comparisons
-  * **Part3 Application** \
+  * **3. Part2 Final Model Feature Importance Visualisation**\  
+    Visualisation of feature importances in the final optimal model
+  * **4. Part3 Application** \
     Predict the liquor sales for the 2019 and 2020 dataset using the optimal model. \
     The dataset "2019_population.csv" contains the population information by county in Iowa in 2019. \
     The dataset "2020_population.csv" contains the population information by county in Iowa in 2020. \
