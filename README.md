@@ -1,9 +1,10 @@
 # MAST30034FinalProject #
 Final project (Team 25) for MAST30034 Applied Data Science, Semester2 2020, University of Melbourne. \
 This project explores liquor sales in Iowa. Models are built to predict total liquor volume. \
-## Final Version folder ###
+## final_version folder ###
 This folder contains all the used datasets, codes and the produced figures. 
-Codes are divided into three main parts: Pre-processing-> Model development -> Application
+* ### Codes folder ###
+  Codes are divided into three main parts: Pre-processing-> Model development -> Application
   #### 1. Part1 Pre-processing 
     Data cleansing, attribute analysis and feature engineering \
     The dataset "data_200k_latest.csv" contains the extracted 200,000 sale records for the model development part. 
