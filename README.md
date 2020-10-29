@@ -23,4 +23,4 @@ This folder contains all the used datasets, codes and the produced figures.
   The dataset "2019_population.csv" is from https://www.icip.iastate.edu/tables/population/counties-estimates \
   The dataset "2020_population.csv" is from https://worldpopulationreview.com/us-counties/states/ia \
 * ### Figures folder ###
-This folder contains all the figures used in the submitted report. 
+  This folder contains all the figures used in the submitted report. 
