@@ -17,7 +17,7 @@ Codes are divided into three main parts: Pre-processing-> Model development -> A
     The dataset "data_2019_100k.csv" contains extracted 100,000 sale records in 2019 for prediction  \
     The dataset "data_2020_100k.csv" contains extracted 100,000 sale records in 2020 for prediction.  
 ### Dataset folder ###
-  The County folder contains geographical information used for map visualisation. Downloaded from 
+  The County folder contains geographical information used for map visualisation. Downloaded from https://geodata.iowa.gov/dataset/county-boundaries-iowa \
   The liquor sales dataset could be downloaded https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy (2012-2020) \
   The dataset "County_Population_in_Iowa_by_Year.csv" is from  https://data.iowa.gov/Community-Demographics/County-Population-in-Iowa-by-Year/qtnr-zsrc (1990 - 2018) \
   The dataset "2019_population.csv" is from https://www.icip.iastate.edu/tables/population/counties-estimates \
