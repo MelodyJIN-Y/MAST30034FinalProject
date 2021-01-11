@@ -24,3 +24,4 @@ This folder contains all the used datasets, codes and the produced figures.
   The dataset "2020_population.csv" is from https://worldpopulationreview.com/us-counties/states/ia \
 * ### Figures folder ###
   This folder contains all the figures used in the submitted report. 
+  A supplementary visualisation https://public.tableau.com/profile/melodyjin#!/vizhome/LiquorSalesInIowa/Dashboard1
